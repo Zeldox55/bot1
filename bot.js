@@ -478,4 +478,4 @@ LOka.on('guildMemberAdd', member => {
 
 
 
-LOka.login(process.BOT_TOKEN)
+LOka.login("NTE4MTY3Mzg4NDA4MjUwMzc5.DuM01g.C_GeDkiZRiQuI5LdEnkek2OIQKI")
